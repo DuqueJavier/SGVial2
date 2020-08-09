@@ -1,0 +1,121 @@
+[
+    {
+        "id": 0,
+        "calzadas": 1,
+        "tipoVia": "Calle",
+        "longitudBordillo": 500.00,
+        "longitudVia": 830.00,
+        "direccionInicio": "CL 65 #34-01",
+        "direccionFin": "CL 65 #34-100",
+        "estado": "Buena",
+        "estrato": 3
+    },
+    {
+        "id": 1,
+        "calzadas": 1,
+        "tipoVia": "Autopista",
+        "longitudBordillo": 300.00,
+        "longitudVia": 200.00,
+        "direccionInicio": "CL 23 #34-01",
+        "direccionFin": "CL 23 #34-100",
+        "estado": "Buena",
+        "estrato": 3
+    },
+    {
+        "id": 2,
+        "calzadas": 1,
+        "tipoVia": "Carrera",
+        "longitudBordillo": 400.00,
+        "longitudVia": 200.00,
+        "direccionInicio": "CR 56 #83-01",
+        "direccionFin": "CR 56 #83-100",
+        "estado": "Buena",
+        "estrato": 4
+    },
+    {
+        "id": 3,
+        "calzadas": 2,
+        "tipoVia": "Autopista",
+        "longitudBordillo": 0,
+        "longitudVia": 158.25,
+        "direccionInicio": "CL 5 #10-288",
+        "direccionFin": null,
+        "estado": "Regular",
+        "estrato": 4
+    },
+    {
+        "id": 4,
+        "calzadas": 1,
+        "tipoVia": "Calle",
+        "longitudBordillo": 150.25,
+        "longitudVia": 214.83,
+        "direccionInicio": "CR 38 #95-122",
+        "direccionFin": "CR 38 #100-122",
+        "estado": "Buena",
+        "estrato": 4
+    },
+    {
+        "id": 5,
+        "calzadas": 1,
+        "tipoVia": "Autopista",
+        "longitudBordillo": 180.25,
+        "longitudVia": 158.25,
+        "direccionInicio": "CR 94 #12-122",
+        "direccionFin": "CR 94 #12-522",
+        "estado": "Mala",
+        "estrato": 4        
+    },
+    {
+        "id": 6,
+        "calzadas": 3,
+        "tipoVia": "Autopista",
+        "longitudBordillo": 400.00,
+        "longitudVia": 200.00,
+        "direccionInicio": "CR 74 #83-00",
+        "direccionFin": "CR 56 #83-330",
+        "estado": "Buena",
+        "estrato": 4
+    },
+    {
+        "id": 7,
+        "calzadas": 2,
+        "tipoVia": "Avenida",
+        "longitudBordillo": 3500.00,
+        "longitudVia": 2000.00,
+        "direccionInicio": "CR 80 #30-00",
+        "direccionFin": "CR 80 #80-30",
+        "estado": "Regular",
+        "estrato": 4
+    },
+    {
+        "id": 8,
+        "calzadas": 2,
+        "tipoVia": "Avenida",
+        "longitudBordillo": 800.00,
+        "longitudVia": 650.00,
+        "direccionInicio": "CR 80 #10-00",
+        "direccionFin": "CR 80 #30-400",
+        "estado": "Buena",
+        "estrato": 2
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
